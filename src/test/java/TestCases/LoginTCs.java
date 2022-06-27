@@ -1,2 +1,4 @@
-package TestCases;public class LoginTCs {
+package TestCases;
+
+public class LoginTCs {
 }
